@@ -3609,14 +3609,15 @@ footer .list-inline li {
 }
 
 .footer-social {
-	padding-left: 25px;
-	margin-top: 10px;
+	padding-left: 0px;
+	margin-top: 0px;
 }
 
 .footer-social a {
 	font-size: 19px;
-	margin-left: 12px;
-	margin-top: 30px;
+	margin-left: 0px;
+	margin-top: 0px;
+	
 }
 
 .footer-logo {
